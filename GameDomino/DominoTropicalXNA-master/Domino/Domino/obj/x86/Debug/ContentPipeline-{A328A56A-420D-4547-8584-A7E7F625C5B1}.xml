@@ -1,0 +1,641 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\white_64x64.png</Source>
+      <Name>Images\white_64x64</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\white_64x64.xnb</Output>
+      <Time>2018-11-29T00:24:36.1964034+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\00.png</Source>
+      <Name>Images\00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\00.xnb</Output>
+      <Time>2018-11-29T00:24:32.8272974+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\01.png</Source>
+      <Name>Images\01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\01.xnb</Output>
+      <Time>2018-11-29T00:24:32.8412613+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\02.png</Source>
+      <Name>Images\02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\02.xnb</Output>
+      <Time>2018-11-29T00:24:32.9704981+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\03.png</Source>
+      <Name>Images\03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\03.xnb</Output>
+      <Time>2018-11-29T00:24:32.9994107+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\04.png</Source>
+      <Name>Images\04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\04.xnb</Output>
+      <Time>2018-11-29T00:24:33.0143696+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\05.png</Source>
+      <Name>Images\05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\05.xnb</Output>
+      <Time>2018-11-29T00:24:33.0283319+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\06.png</Source>
+      <Name>Images\06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\06.xnb</Output>
+      <Time>2018-11-29T00:24:33.3819751+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\11.png</Source>
+      <Name>Images\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\11.xnb</Output>
+      <Time>2018-11-29T00:24:33.6357869+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\12.png</Source>
+      <Name>Images\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\12.xnb</Output>
+      <Time>2018-11-29T00:24:33.6487516+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\13.png</Source>
+      <Name>Images\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\13.xnb</Output>
+      <Time>2018-11-29T00:24:33.6627155+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\14.png</Source>
+      <Name>Images\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\14.xnb</Output>
+      <Time>2018-11-29T00:24:33.7198005+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\15.png</Source>
+      <Name>Images\15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\15.xnb</Output>
+      <Time>2018-11-29T00:24:33.7337623+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\16.png</Source>
+      <Name>Images\16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\16.xnb</Output>
+      <Time>2018-11-29T00:24:33.7487238+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\22.png</Source>
+      <Name>Images\22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\22.xnb</Output>
+      <Time>2018-11-29T00:24:33.7616906+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\23.png</Source>
+      <Name>Images\23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\23.xnb</Output>
+      <Time>2018-11-29T00:24:33.8776653+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\24.png</Source>
+      <Name>Images\24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\24.xnb</Output>
+      <Time>2018-11-29T00:24:33.8946193+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\25.png</Source>
+      <Name>Images\25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\25.xnb</Output>
+      <Time>2018-11-29T00:24:33.9115734+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\26.png</Source>
+      <Name>Images\26</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\26.xnb</Output>
+      <Time>2018-11-29T00:24:33.9285291+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\33.png</Source>
+      <Name>Images\33</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\33.xnb</Output>
+      <Time>2018-11-29T00:24:33.9454827+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\34.png</Source>
+      <Name>Images\34</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\34.xnb</Output>
+      <Time>2018-11-29T00:24:33.96144+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\35.png</Source>
+      <Name>Images\35</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\35.xnb</Output>
+      <Time>2018-11-29T00:24:33.9813871+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\36.png</Source>
+      <Name>Images\36</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\36.xnb</Output>
+      <Time>2018-11-29T00:24:34.0003366+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\44.png</Source>
+      <Name>Images\44</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\44.xnb</Output>
+      <Time>2018-11-29T00:24:34.0202828+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\45.png</Source>
+      <Name>Images\45</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\45.xnb</Output>
+      <Time>2018-11-29T00:24:34.0382348+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\46.png</Source>
+      <Name>Images\46</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\46.xnb</Output>
+      <Time>2018-11-29T00:24:34.0900969+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\55.png</Source>
+      <Name>Images\55</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\55.xnb</Output>
+      <Time>2018-11-29T00:24:34.1090456+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\56.png</Source>
+      <Name>Images\56</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\56.xnb</Output>
+      <Time>2018-11-29T00:24:34.1818507+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\66.png</Source>
+      <Name>Images\66</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\66.xnb</Output>
+      <Time>2018-11-29T00:24:34.197808+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\OpponentTile.png</Source>
+      <Name>Images\OpponentTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\OpponentTile.xnb</Output>
+      <Time>2018-11-29T00:24:35.3652127+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\MainMenu.png</Source>
+      <Name>Images\MainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\MainMenu.xnb</Output>
+      <Time>2018-11-30T13:22:06.9087628+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\MainMenuDobleSix.png</Source>
+      <Name>Images\MainMenuDobleSix</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\MainMenuDobleSix.xnb</Output>
+      <Time>2018-11-29T00:24:35.314395+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\optionsBackground.png</Source>
+      <Name>Images\optionsBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\optionsBackground.xnb</Output>
+      <Time>2018-11-29T00:24:36.1814436+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\aboutDominoBackground.png</Source>
+      <Name>Images\aboutDominoBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\aboutDominoBackground.xnb</Output>
+      <Time>2018-11-29T00:24:34.3569946+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\btnNextRound.png</Source>
+      <Name>Images\btnNextRound</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnNextRound.xnb</Output>
+      <Time>2018-11-30T13:26:28.6164136+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\btnPass.png</Source>
+      <Name>Images\btnPass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnPass.xnb</Output>
+      <Time>2018-11-30T13:13:41.1445104+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Congratulations.png</Source>
+      <Name>Images\Congratulations</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\Congratulations.xnb</Output>
+      <Time>2018-12-06T05:45:06.2050622+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ExtendedBoard.png</Source>
+      <Name>Images\ExtendedBoard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\ExtendedBoard.xnb</Output>
+      <Time>2018-11-30T13:55:04.5924+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\EndOfRoundBackground.png</Source>
+      <Name>Images\EndOfRoundBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\EndOfRoundBackground.xnb</Output>
+      <Time>2018-11-29T00:24:34.964311+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TeammateTile.png</Source>
+      <Name>Images\TeammateTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\TeammateTile.xnb</Output>
+      <Time>2018-11-29T00:24:35.3781782+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\BadLuckTryAgain.png</Source>
+      <Name>Images\BadLuckTryAgain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\BadLuckTryAgain.xnb</Output>
+      <Time>2018-12-06T05:48:25.2814862+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\boardColor.png</Source>
+      <Name>Images\boardColor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\boardColor.xnb</Output>
+      <Time>2018-11-29T00:24:35.3911437+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\btnBlue.png</Source>
+      <Name>Images\btnBlue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnBlue.xnb</Output>
+      <Time>2018-11-30T14:31:32.0621412+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\btnDominoColor.png</Source>
+      <Name>Images\btnDominoColor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnDominoColor.xnb</Output>
+      <Time>2018-11-30T14:43:09.3617139+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\btnEasy.png</Source>
+      <Name>Images\btnEasy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnEasy.xnb</Output>
+      <Time>2018-11-30T14:30:24.671541+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\btnExpert.png</Source>
+      <Name>Images\btnExpert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnExpert.xnb</Output>
+      <Time>2018-11-30T14:29:41.765725+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\btnNewGame.png</Source>
+      <Name>Images\btnNewGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnNewGame.xnb</Output>
+      <Time>2018-11-30T12:31:18.3749124+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\btnOptions.png</Source>
+      <Name>Images\btnOptions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnOptions.xnb</Output>
+      <Time>2018-11-30T12:33:48.2170595+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\btnWhite.png</Source>
+      <Name>Images\btnWhite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnWhite.xnb</Output>
+      <Time>2018-11-30T14:03:56.4952625+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\btnYellow.png</Source>
+      <Name>Images\btnYellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnYellow.xnb</Output>
+      <Time>2018-11-30T14:09:22.0073969+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\btnContinuePlaying.png</Source>
+      <Name>Images\btnContinuePlaying</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnContinuePlaying.xnb</Output>
+      <Time>2018-11-30T13:37:52.0335153+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\btnAboutDomino.png</Source>
+      <Name>Images\btnAboutDomino</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnAboutDomino.xnb</Output>
+      <Time>2018-11-30T13:41:47.5566295+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\btnQuitGame.png</Source>
+      <Name>Images\btnQuitGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnQuitGame.xnb</Output>
+      <Time>2018-11-30T12:35:42.5437361+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\btnRed.png</Source>
+      <Name>Images\btnRed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnRed.xnb</Output>
+      <Time>2018-11-30T14:13:08.3224392+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\btnVeryEasy.png</Source>
+      <Name>Images\btnVeryEasy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnVeryEasy.xnb</Output>
+      <Time>2018-11-30T14:10:59.7159544+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\btnNormal.png</Source>
+      <Name>Images\btnNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnNormal.xnb</Output>
+      <Time>2018-11-30T14:27:16.2435572+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\btnGreen.png</Source>
+      <Name>Images\btnGreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnGreen.xnb</Output>
+      <Time>2018-11-30T14:28:15.2966383+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\btnDifficultyLevel.png</Source>
+      <Name>Images\btnDifficultyLevel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnDifficultyLevel.xnb</Output>
+      <Time>2018-11-30T14:44:36.5473286+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\Letras.spritefont</Source>
+      <Name>Font\Letras</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Font\Letras.xnb</Output>
+      <Time>2018-11-29T03:09:09.9715157+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Set.wav</Source>
+      <Name>Audio\Set</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\Set.xnb</Output>
+      <Time>2018-11-29T00:24:32.4309316+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Sett.wav</Source>
+      <Name>Audio\Sett</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\Sett.xnb</Output>
+      <Time>2018-11-29T00:24:32.4697421+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\track.wav</Source>
+      <Name>Audio\track</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\track.xnb</Output>
+      <Time>2018-11-29T00:24:32.7525877+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\DominoHitTable.wav</Source>
+      <Name>Audio\DominoHitTable</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\DominoHitTable.xnb</Output>
+      <Time>2018-11-29T00:24:32.0588091+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\DominoPickUp.wav</Source>
+      <Name>Audio\DominoPickUp</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\DominoPickUp.xnb</Output>
+      <Time>2018-11-29T00:24:32.2095238+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\DominoSetDown.wav</Source>
+      <Name>Audio\DominoSetDown</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\DominoSetDown.xnb</Output>
+      <Time>2018-11-29T00:24:32.225476+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\DominoShuffling.wav</Source>
+      <Name>Audio\DominoShuffling</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\DominoShuffling.xnb</Output>
+      <Time>2018-11-29T00:24:32.405004+05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{A328A56A-420D-4547-8584-A7E7F625C5B1}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-11-28T23:42:19.7369999+05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

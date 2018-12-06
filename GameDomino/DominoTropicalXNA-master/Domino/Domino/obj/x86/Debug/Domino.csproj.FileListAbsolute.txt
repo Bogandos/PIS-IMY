@@ -1,0 +1,307 @@
+C:\CODE\Projects\DominoTropicalXNA\Domino Beta v0.1\Domino Beta v0.1\obj\x86\Debug\Domino Beta v0.1.exe
+C:\CODE\Projects\DominoTropicalXNA\Domino Beta v0.1\Domino Beta v0.1\obj\x86\Debug\Domino Beta v0.1.pdb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Domino Beta v0.1.exe
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Domino Beta v0.1.pdb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\obj\x86\Debug\Domino.csprojResolveAssemblyReference.cache
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\obj\x86\Debug\Domino.csproj.CoreCompileInputs.cache
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\obj\x86\Debug\Domino Beta v0.1.exe
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\obj\x86\Debug\Domino Beta v0.1.pdb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\white_64x64.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\00.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\01.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\02.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\03.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\04.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\05.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\06.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\11.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\12.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\13.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\14.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\15.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\16.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\22.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\23.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\24.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\25.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\26.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\33.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\34.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\35.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\36.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\44.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\45.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\46.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\55.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\56.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\66.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Font\Letras.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Font\Cent.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Audio\Set.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Audio\Sett.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Audio\track.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Audio\DominoHitTable.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Audio\DominoPickUp.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Audio\DominoSetDown.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Audio\DominoShuffling.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\MainMenu.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\MainMenuDobleSix.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\optionsBackground.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\btnNextRound.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\btnPass.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\Congratulations.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\OpponentTile.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\AboutDominoBackground.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\ExtendedBoard.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\EndOfRoundBackground.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\TeammateTile.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\BadLuckTryAgain.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\boardColor.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\btnBlue.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\btnDominoColor.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\btnEasy.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\btnExpert.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\btnNewGame.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\btnOptions.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\btnWhite.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\btnYellow.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\btnContinuePlaying.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\btnAboutDomino.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\btnQuitGame.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\btnRed.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\btnVeryEasy.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\btnNormal.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\btnGreen.xnb
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino\bin\x86\Debug\Content\Images\btnDifficultyLevel.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\obj\x86\Debug\Domino Beta v0.1.exe
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\obj\x86\Debug\Domino Beta v0.1.pdb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\white_64x64.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\00.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\01.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\02.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\03.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\04.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\05.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\06.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\11.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\12.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\13.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\14.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\15.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\16.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\22.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\23.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\24.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\25.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\26.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\33.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\34.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\35.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\36.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\44.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\45.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\46.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\55.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\56.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\66.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\OpponentTile.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\MainMenu.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\MainMenuDobleSix.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\optionsBackground.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\aboutDominoBackground.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnNextRound.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnPass.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\Congratulations.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\ExtendedBoard.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\EndOfRoundBackground.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\TeammateTile.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\BadLuckTryAgain.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\boardColor.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnBlue.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnDominoColor.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnEasy.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnExpert.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnNewGame.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnOptions.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnWhite.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnYellow.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnContinuePlaying.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnAboutDomino.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnQuitGame.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnRed.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnVeryEasy.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnNormal.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnGreen.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnDifficultyLevel.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Font\Letras.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\Set.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\Sett.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\track.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\DominoHitTable.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\DominoPickUp.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\DominoSetDown.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\DominoShuffling.xnb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Domino Beta v0.1.exe
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Domino Beta v0.1.pdb
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\obj\x86\Debug\Domino.csprojResolveAssemblyReference.cache
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino\obj\x86\Debug\Domino.csproj.CoreCompileInputs.cache
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\white_64x64.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\00.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\01.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\02.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\03.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\04.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\05.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\06.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\11.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\12.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\13.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\14.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\15.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\16.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\22.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\23.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\24.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\25.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\26.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\33.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\34.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\35.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\36.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\44.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\45.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\46.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\55.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\56.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\66.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\OpponentTile.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\MainMenu.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\MainMenuDobleSix.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\optionsBackground.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\aboutDominoBackground.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnNextRound.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnPass.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\Congratulations.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\ExtendedBoard.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\EndOfRoundBackground.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\TeammateTile.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\BadLuckTryAgain.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\boardColor.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnBlue.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnDominoColor.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnEasy.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnExpert.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnNewGame.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnOptions.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnWhite.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnYellow.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnContinuePlaying.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnAboutDomino.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnQuitGame.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnRed.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnVeryEasy.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnNormal.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnGreen.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnDifficultyLevel.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Font\Letras.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\Set.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\Sett.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\track.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\DominoHitTable.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\DominoPickUp.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\DominoSetDown.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\DominoShuffling.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Domino Beta v0.1.exe
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Domino Beta v0.1.pdb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\obj\x86\Debug\Domino.csprojResolveAssemblyReference.cache
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\obj\x86\Debug\Domino.csproj.CoreCompileInputs.cache
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\obj\x86\Debug\Domino Beta v0.1.exe
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino\obj\x86\Debug\Domino Beta v0.1.pdb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\white_64x64.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\00.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\01.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\02.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\03.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\04.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\05.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\06.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\11.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\12.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\13.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\14.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\15.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\16.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\22.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\23.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\24.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\25.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\26.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\33.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\34.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\35.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\36.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\44.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\45.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\46.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\55.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\56.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\66.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\OpponentTile.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\MainMenu.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\MainMenuDobleSix.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\optionsBackground.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\aboutDominoBackground.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnNextRound.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnPass.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\Congratulations.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\ExtendedBoard.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\EndOfRoundBackground.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\TeammateTile.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\BadLuckTryAgain.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\boardColor.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnBlue.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnDominoColor.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnEasy.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnExpert.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnNewGame.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnOptions.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnWhite.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnYellow.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnContinuePlaying.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnAboutDomino.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnQuitGame.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnRed.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnVeryEasy.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnNormal.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnGreen.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Images\btnDifficultyLevel.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Font\Letras.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\Set.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\Sett.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\track.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\DominoHitTable.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\DominoPickUp.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\DominoSetDown.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\DominoShuffling.xnb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Domino Beta v0.1.exe
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\bin\x86\Debug\Domino Beta v0.1.pdb
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\obj\x86\Debug\Domino.csprojResolveAssemblyReference.cache
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\obj\x86\Debug\Domino.csproj.CoreCompileInputs.cache
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\obj\x86\Debug\Domino Beta v0.1.exe
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino\obj\x86\Debug\Domino Beta v0.1.pdb
