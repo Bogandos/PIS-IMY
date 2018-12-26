@@ -1,0 +1,8 @@
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino Content\obj\x86\Debug\Domino Content.contentprojResolveAssemblyReference.cache
+C:\CODE\Projects\DominoTropicalXNA\Domino\Domino Content\obj\x86\Debug\Domino Content.contentproj.CoreCompileInputs.cache
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino Content\obj\x86\Debug\Domino Content.contentprojResolveAssemblyReference.cache
+C:\Users\opero\Downloads\Domino 2\DominoTropicalXNA-master\Domino\Domino Content\obj\x86\Debug\Domino Content.contentproj.CoreCompileInputs.cache
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino Content\obj\x86\Debug\Domino Content.contentprojResolveAssemblyReference.cache
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\Domino\DominoTropicalXNA-master\Domino\Domino Content\obj\x86\Debug\Domino Content.contentproj.CoreCompileInputs.cache
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino Content\obj\x86\Debug\Domino Content.contentprojResolveAssemblyReference.cache
+C:\Users\opero\OneDrive\Документы\Visual Studio 2017\Projects\GameDomino\DominoTropicalXNA-master\Domino\Domino Content\obj\x86\Debug\Domino Content.contentproj.CoreCompileInputs.cache

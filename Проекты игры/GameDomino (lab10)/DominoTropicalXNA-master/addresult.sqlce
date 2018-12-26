@@ -1,0 +1,7 @@
+﻿CREATE PROCEDURE [dbo].[addresult]
+    @name nvarchar(50),
+    @score int
+AS
+    INSERT INTO Result (Name, Score)
+    VALUES (@name, @age)
+GO

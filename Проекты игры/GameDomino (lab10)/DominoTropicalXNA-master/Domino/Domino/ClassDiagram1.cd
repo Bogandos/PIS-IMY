@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Domino.Game1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="Microsoft.Xna.Framework.Game" ManuallyRouted="true">
+      <Path>
+        <Point X="6" Y="2.75" />
+        <Point X="6" Y="2.656" />
+        <Point X="2.51" Y="2.656" />
+        <Point X="2.51" Y="0.846" />
+        <Point X="2" Y="0.846" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>8VwoGdBKAoBIRxdQigSTeEwAlKWEERgqNAEmQkECAcU=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Xna.Framework.Game">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Domino.Entities.MenuButton">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAggAAIAAAAAAAAQAQgCAAAAggAAAAAA=</HashCode>
+      <FileName>Entities\MenuButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domino.Entities.Player">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAABQAAAAAABAQAAAAEAAAACAACAAAAAQA=</HashCode>
+      <FileName>Entities\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domino.Entities.Result">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAIAQABAQAAgAAAAAAAAAAACA=</HashCode>
+      <FileName>Entities\Result.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domino.Entities.Sprite">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIAAAgAgAAAAAAABAAAAQBAABAAAhAAAAAA=</HashCode>
+      <FileName>Entities\Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domino.Entities.Table">
+    <Position X="7" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAABAAQgAYhAAAgIEBABIAAAAAgAAAQQACA=</HashCode>
+      <FileName>Entities\Table.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domino.Entities.Tile">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQWAAAAAAAAAgAAEAQAAAQCAUAAAAJAABAIAAQIAAAA=</HashCode>
+      <FileName>Entities\Tile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domino.Program">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Domino.Entities.DifficultyLevel">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAgIAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Entities\eDifficultyLevel.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Domino.Entities.TileColor">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAgAAAAAAAAAABAAAAAAAAAAAADAAAAA=</HashCode>
+      <FileName>Entities\eTileColor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

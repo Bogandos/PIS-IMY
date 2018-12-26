@@ -1,0 +1,7 @@
+﻿	
+USE dominogame;
+GO
+CREATE PROCEDURE selectresult AS
+BEGIN
+    SELECT * FROM Result
+END;
